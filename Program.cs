@@ -15,7 +15,7 @@ internal class Program
         rectangle.P();
         rectangle.S();
         rectangle.Uxankyun();
-        //Console.ReadKey();
+        Console.ReadKey();
 
 
     }
